@@ -1,0 +1,7 @@
+.idea
+.idea_modules/
+.npm
+*.log
+node_modules
+/logs/*
+/www/*
